@@ -19,6 +19,7 @@ namespace Linck
         int? idusuario;
         public Link(int? iduserr)
         {
+            // inicia 
             InitializeComponent();
 
             idusuario = iduserr;
